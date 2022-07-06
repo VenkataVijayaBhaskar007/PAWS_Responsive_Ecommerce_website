@@ -8,7 +8,7 @@ PAWS is the Advanced_Ecommerce_Website.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*If any suggestions please mail me at :- rishikumarvadada@gmail.com.
+*If any suggestions please mail me at :- venkatavijayabhaskarvadada007@gmail.com 
 **I have been in learning stage as of now. So, your suggesitions are more valuble to me, to 
 reach my goals.
 

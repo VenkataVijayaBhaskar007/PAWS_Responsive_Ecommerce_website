@@ -2,7 +2,9 @@ Hie There!!!!
 
 This is V.Venkata Vijaya Bhaskar!!
 
-Project name is PAWS.
+This is my first project in github.
+
+Project name is PAWS. 
 
 PAWS is the Advanced_Ecommerce_Website.
 

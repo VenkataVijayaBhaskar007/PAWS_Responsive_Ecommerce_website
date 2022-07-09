@@ -1,6 +1,6 @@
 # PAWS_Ecommerce_website 
 
-### It's a compltely responsive website using html, CSS, JS
+### It's a compltely responsive website using WEB 2.0
 
 ***&#x1F537;Website is about ecommerce website to buy pets***<br/>
 

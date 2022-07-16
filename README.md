@@ -4,7 +4,7 @@
 
 ***&#x1F537;Website is about ecommerce website to buy pets***<br/>
 
-***&#x1F537;Have good internet connection***<br/>
+***&#x1F537;Have good internet connection to load pages***<br/>
 
 ***&#x1F537;here is the <a href="https://venkatavijayabhaskar007.github.io/PAWS_Ecommerce_website/">link</a> to the live preview of the website.***
 <br/>

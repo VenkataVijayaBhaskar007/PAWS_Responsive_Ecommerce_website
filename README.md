@@ -2,7 +2,7 @@
 
 ### It's a compltely responsive website using Html, Css, JS
 
-***&#x1F537;Website is about ecommerce website to buy pets.***<br/>
+***&#x1F537;  Website is about ecommerce website to buy pets.***<br/>
 
 ***&#x1F537;Have good internet connection to load pages.***<br/>
 

@@ -1,8 +1,10 @@
 # PAWS_Ecommerce_website 
 
-### It's a compltely responsive website using WEB 2.0
+### It's a compltely responsive website using Html, Css, JS
 
 ***&#x1F537;Website is about ecommerce website to buy pets***<br/>
+
+***&#x1F537;Have good internet connection***<br/>
 
 ***&#x1F537;here is the <a href="https://venkatavijayabhaskar007.github.io/PAWS_Ecommerce_website/">link</a> to the live preview of the website.***
 <br/>

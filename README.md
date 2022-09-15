@@ -6,7 +6,7 @@
 
 ***&#x1F537;  Have good internet connection to load internal pages.***<br/>
 
-***&#x1F537;  Here is the <a href="https://venkatavijayabhaskar007.github.io/PAWS_Ecommerce_website/">link</a> to the live preview of the website.***
+***&#x1F537;  Here is the <a href="https://venkatavijayabhaskar007.github.io/PAWS_Responsive_Ecommerce_website/">link</a> to the live preview of the website.***
 <br/>
  
 

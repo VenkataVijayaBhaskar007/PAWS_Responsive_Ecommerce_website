@@ -10,7 +10,7 @@
 <br/>
  
 
- ***&#x1F537;  I was linking video guide of the site to make it possible to understand about the site clearly.*** <br/>
+ ***&#x1F537;  This is the video guide of the site to make it possible to understand about the site clearly.*** <br/>
  
  
 
